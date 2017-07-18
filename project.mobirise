@@ -74,7 +74,7 @@
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_styles": {
             "I": {
-              "color": "#b8312f"
+              "color": "#000000"
             }
           },
           "_anchor": "header1-1",
