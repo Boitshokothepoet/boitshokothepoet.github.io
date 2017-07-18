@@ -74,14 +74,17 @@
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_styles": {
             "I": {
-              "color": "#000000"
+              "color": "#000000",
+              "text-align": "left",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
           },
           "_anchor": "header1-1",
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/website-under-construction-2000x1638.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/under-construction-2000x1500.png",
             "bgColor": "#040b0d",
             "bgColorRadio": false,
             "bgVideo": {
